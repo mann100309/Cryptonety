@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://cryptonety.netlify.app/contactus/index.html</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2023-02-09</lastmod>
+</url>
+<url>
+  <loc>http://cryptonety.netlify.app/loginform/index.html</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2023-02-09</lastmod>
+</url>
+<url>
+  <loc></loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2023-02-09</lastmod>
+</url>
+</urlset>
