@@ -1,2 +1,2 @@
 # Cryptonity
-It my best webiste make ever
+Website which tells you about the prices of various Cyptocurrency.
